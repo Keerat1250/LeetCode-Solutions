@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Counting
 |  |
 | ------- |
