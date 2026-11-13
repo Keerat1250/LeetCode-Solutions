@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [3866-first-unique-even-element](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
