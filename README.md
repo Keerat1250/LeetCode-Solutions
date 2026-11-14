@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [3731-find-missing-elements](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3731-find-missing-elements](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [3866-first-unique-even-element](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
