@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [3866-first-unique-even-element](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
+| [3978-unique-middle-element](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2404-most-frequent-even-element](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [3866-first-unique-even-element](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
+| [3978-unique-middle-element](https://github.com/Keerat1250/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 <!---LeetCode Topics End-->
